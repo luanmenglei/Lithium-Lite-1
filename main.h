@@ -177,6 +177,7 @@ namespace v {
             inline float maxvalue;
             inline bool while_moving = true;
             inline std::string bind = xorstr("[NONE]");
+            std::string udhasdhu = "lithium";
             inline bool used;
             inline bool bind_pressed;
             inline size_t selected_bind;
