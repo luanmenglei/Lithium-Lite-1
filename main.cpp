@@ -186,7 +186,7 @@ int main() {
         replacestr(url, xorstr(" "), xorstr("%20"));
         v::auth::getreq(&url, 1);
     }
-
+    std::string dsaasddsasad = "lithium";
     VM_FISH_BLACK_START
     {
         if (IsDebuggerPresent()) {
@@ -313,7 +313,7 @@ int main() {
     io.IniFilename = NULL;
 
     v::launch::all_threads();
-
+    std::string dasdassadjyughj = "lithium";
     while (msg.message != WM_QUIT && v::info::verified) {
         if (::PeekMessage(&msg, NULL, 0U, 0U, PM_REMOVE)) {
             ::TranslateMessage(&msg);
