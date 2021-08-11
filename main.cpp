@@ -1,13 +1,14 @@
 
-//As the older source has been leaked, I will be giving this one away
-//Clearly credits are needed as Epic doesn't know how to stay away from peoples work
+// As the older source has been leaked by epic, I will be giving this one away
+// Clearly credits are needed as Epic doesn't know how to stay away from peoples work
 
 /*
  * Credits to Syn for Epic pasting Paladin in Lithium
  * Credits to Diego for Koid source (This is like 85% Koid)
  * Credits to LevensLes for Cucklord Ghost (Only used Cucklord in earlier versions)
+ * Credits to Eternity and Jesse for making us the AutoClicker randomization
  * ALL CODE IS WRITTEN BY EPIC (Prism only modified some code so it worked better and added some stuff)
- */
+*/
 
 #include "main.h"
 void changecolor(float col[4]);
