@@ -1,4 +1,4 @@
-# Lithium-Lite-Latest (v2.0.0)
+# Lithium Lite (v2.0.0)
 Latest Lithium Lite SRC made using CLion (https://www.jetbrains.com/clion/)
 
 * Credits to Syn for Epic pasting Paladin in Lithium
